@@ -1,0 +1,1 @@
+void doSomeLogging(int i);
